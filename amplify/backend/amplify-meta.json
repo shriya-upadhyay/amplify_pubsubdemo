@@ -2,8 +2,8 @@
   "providers": {
     "awscloudformation": {
       "AuthRoleName": "amplify-awsamplifyreacttempl-ampldemo-85329-authRole",
-      "UnauthRoleArn": "arn:aws:iam::236866483905:role/amplify-awsamplifyreacttempl-ampldemo-85329-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::236866483905:role/amplify-awsamplifyreacttempl-ampldemo-85329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::XXXXXXXXXXXX:role/amplify-awsamplifyreacttempl-ampldemo-85329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::XXXXXXXXXX:role/amplify-awsamplifyreacttempl-ampldemo-85329-authRole",
       "Region": "us-west-2",
       "DeploymentBucketName": "amplify-awsamplifyreacttempl-ampldemo-85329-deployment",
       "UnauthRoleName": "amplify-awsamplifyreacttempl-ampldemo-85329-unauthRole",
