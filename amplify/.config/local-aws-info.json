@@ -3,5 +3,10 @@
     "configLevel": "project",
     "useProfile": true,
     "profileName": "default"
+  },
+  "ampldemo": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "/Users/shriyaupadhyay/.amplify/awscloudformation/Ina8ftc974"
   }
 }
